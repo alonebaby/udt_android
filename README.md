@@ -1,4 +1,3 @@
 udt_android
 ===========
-create one available udt version under android system.
-udt  in android
+udt4 for android platform. I recommend to build it with android-ndk-r4-crystax or latter version. 
